@@ -1,36 +1,23 @@
-# Default entries from https://github.com/bromite/filters/blob/master/lists.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
+# Adguard Base
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
+
+# Adguard Mobile ADS
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+
+# Easylist Base
 https://easylist.to/easylist/easylist.txt
+
+# Easy Privacy
 https://easylist.to/easylist/easyprivacy.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 
-# Annoying Elements, Cookie promts etc.
-https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
-https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
-https://filters.adtidy.org/extension/ublock/filters/14.txt
+# Ublock Origin (Filters.txt)
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
 
-# CNAME record trackers
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+# Ublock Origin (Unbreak.txt)
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 
-# Other Adguard lists
-https://filters.adtidy.org/extension/ublock/filters/2.txt
-https://filters.adtidy.org/extension/ublock/filters/3.txt
-https://filters.adtidy.org/extension/ublock/filters/11.txt
+# RU Adlist
+https://easylist-downloads.adblockplus.org/advblock.txt
 
-# Third party fonts
-https://fanboy.co.nz/fanboy-antifonts.txt
-
-# Other third-party tracking
-https://easylist.to/easylist/fanboy-social.txt
-
-# Annoyances on Twitter
-https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
-
-# My own block list
-https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
+# Pete Lowe's 
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
