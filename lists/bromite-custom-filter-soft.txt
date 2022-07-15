@@ -25,15 +25,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.t
 # Ublock Origin (Badware)
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
 
-# Ublock Origin (2020 Filters)
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
-
-# Ublock Origin (2021 Filters)
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
-
-# Ublock Origin (2022 Filters)
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
-
 # Ublock Origin (Resource Abuse)
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 
