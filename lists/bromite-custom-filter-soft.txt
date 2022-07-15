@@ -19,6 +19,24 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 # Ublock Origin (Quick Fixes)
 https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/quick-fixes.txt
 
+# Ublock Origin (Badlist)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt
+
+# Ublock Origin (Badware)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+
+# Ublock Origin (Resource Abuse)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+
+# Ublock Origin (2020 Filters)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+
+# Ublock Origin (2021 Filters)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+
+# Ublock Origin (2022 Filters)
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
+
 # RU AD List (Easylist)
 https://easylist-downloads.adblockplus.org/advblock.txt
 
