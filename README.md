@@ -9,11 +9,7 @@
 
 — Easy Privacy
 
-— Ublock Origin (Filters.txt)
-
-— Ublock Origin (Unbreak.txt)
-
-— Ublock Origin (Quick Fixes)
+— Ublock Origin
 
 — RU Adlist
 
