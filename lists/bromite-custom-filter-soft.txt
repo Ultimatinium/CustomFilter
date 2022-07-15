@@ -16,6 +16,9 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
 # Ublock Origin (Unbreak.txt)
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 
+# Ublock Origin (Quick Fixes)
+https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/quick-fixes.txt
+
 # RU AD List (Easylist)
 https://easylist-downloads.adblockplus.org/advblock.txt
 
