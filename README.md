@@ -13,6 +13,8 @@
 
 — Ublock Origin (Unbreak.txt)
 
+— Ublock Origin (Quick Fixes)
+
 — RU Adlist
 
 — Pete Lowe's AD List
