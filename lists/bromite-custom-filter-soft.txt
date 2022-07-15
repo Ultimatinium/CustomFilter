@@ -27,3 +27,6 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0
 
 # ABP Anti CV List
 https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
+
+# Placeholder Hider With No Generic Hiding
+https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
