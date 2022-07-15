@@ -1,23 +1,8 @@
-# Adguard Base
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
-
-# Adguard Mobile ADS
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-
-# Easylist Base
 https://easylist.to/easylist/easylist.txt
-
-# Easy Privacy
 https://easylist.to/easylist/easyprivacy.txt
-
-# Ublock Origin (Filters.txt)
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
-
-# Ublock Origin (Unbreak.txt)
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
-
-# RU Adlist
 https://easylist-downloads.adblockplus.org/advblock.txt
-
-# Pete Lowe's 
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
