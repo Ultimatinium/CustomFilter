@@ -34,9 +34,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 # Ublock Origin (2022 Filters)
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
 
-# Ublock Origin (Legacy)
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/legacy.txt
-
 # Ublock Origin (Resource Abuse)
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 
