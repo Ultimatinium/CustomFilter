@@ -22,3 +22,5 @@
 — ABP Anti Circumvention List
 
 — Placeholder Hider With No Generic Hiding
+
+— Malicious URL List
