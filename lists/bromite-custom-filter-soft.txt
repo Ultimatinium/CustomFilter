@@ -23,4 +23,4 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
 
 # ABP Anti CV List
-https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
+# https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
