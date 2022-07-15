@@ -19,6 +19,9 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 # RU AD List (Easylist)
 https://easylist-downloads.adblockplus.org/advblock.txt
 
+# RU AD Lost (Adguard)
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
+
 # Pete Lowe's AD List
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
 
