@@ -46,7 +46,7 @@ Filters with (New) are the lists which are added to aggressive list (1.dat).
 
 ### RUSSIAN FILTERS
 - RU AD List (Easylist)
-- RU AD Lost (Adguard)
+- RU AD List (Adguard)
 
 
 
