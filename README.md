@@ -18,7 +18,7 @@ Filters with (New) are the lists which are added to aggressive list (1.dat).
 ### EASYLIST FILTERS
 - Easylist Base Filter
 - Easy Privacy
-- Easylist Cookie List
+- Easylist Cookie List (New)
 
 
 
