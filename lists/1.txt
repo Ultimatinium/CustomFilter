@@ -35,7 +35,7 @@ https://easylist.to/easylist/easylist.txt
 # Easy Privacy
 https://easylist.to/easylist/easyprivacy.txt
 
-# Easylist Cookie List
+# Easylist Cookie List (New)
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 
 #————————————————————————————————————————————————————————————————————————————————————————————————————————#
