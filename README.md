@@ -1,49 +1,24 @@
-FILTERS AGGRESSIVE
-# ADGUARD FILTERS #
+# Custom Bromite filter list by @Ultimatinium.
+- Filters without (New) are the default and the lists for soft list (0.dat).
+- Filters with (New) are the lists which are added to soft list (1.dat).
 
+## ADGUARD FILTERS
+### Adguard Base Filter
+### Adguard Mobile ADS Filter
+### Adguard Tracking Protection Filter (New)
+### Adguard URL Tracking Filter (New)
+### Adguard Social Media Filter (New)
+### Adguard Annoyance Filter (New)
 
-# Adguard Base Filter
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt
+## EASYLIST FILTERS
+### Easylist Base Filter
+### Easy Privacy
+### Easylist Cookie List
 
-# Adguard Mobile ADS Filter
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+## FANBOY'S FILTERS
+### Fanboy's Social Blocking List (New)
+### Fanboy's Annoyance List (New)
 
-# Adguard Tracking Protection Filter (New)
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-
-# Adguard URL Tracking Filter (New)
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
-
-# Adguard Social Media Filter (New)
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt
-
-# Adguard Annoyance Filter (New)
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
-
-#————————————————————————————————————————————————————————————————————————————————————————————————————————#
-# EASYLIST FILTERS #
-
-
-# Easylist Base Filter
-https://easylist.to/easylist/easylist.txt
-
-# Easy Privacy
-https://easylist.to/easylist/easyprivacy.txt
-
-# Easylist Cookie List
-https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
-
-#————————————————————————————————————————————————————————————————————————————————————————————————————————#
-# FANBOY'S FILTERS #
-
-
-# Fanboy's Social Blocking List (New)
-https://easylist.to/easylist/fanboy-social.txt
-
-# Fanboy's Annoyance List (New)
-https://secure.fanboy.co.nz/fanboy-annoyance.txt
-
-#————————————————————————————————————————————————————————————————————————————————————————————————————————#
 ## UBLOCK ORIGIN FILTERS
 ### Ublock Origin (Filters)
 ### Ublock Origin (Unbreak)
@@ -69,3 +44,6 @@ https://secure.fanboy.co.nz/fanboy-annoyance.txt
 ### Pete Lowe's AD List
 ### Placeholder Hider With No Generic Hiding
 ### AdBlock Warning Removal (New)
+
+All the produced lists (.dat files) are in the "releases" section.
+To import to Bromite just copy the link of the list and replace the Bromite default AdBlock URL.
