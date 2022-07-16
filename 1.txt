@@ -106,7 +106,7 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
 
 #————————————————————————————————————————————————————————————————————————————————————————————————————————#
-# MISCELLANEOUS FILTER #
+# MISCELLANEOUS FILTERS #
 
 
 # Pete Lowe's AD List
