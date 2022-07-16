@@ -95,7 +95,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances
 # RU AD List (Easylist)
 https://easylist-downloads.adblockplus.org/advblock.txt
 
-# RU AD Lost (Adguard)
+# RU AD List (Adguard)
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt
 
 #————————————————————————————————————————————————————————————————————————————————————————————————————————#
