@@ -1,6 +1,6 @@
-## Custom Filter List
+# Custom Filter List
 
-# Custom Filter Used
+## Custom Filter Used (Soft)
 — Adguard Base Filter
 
 — Adguard Mobile ADS Filter
